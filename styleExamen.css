@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+}
+body {
+	color: black;
+	font -size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+header{
+	border: 2px solid green;
+}
+
+nav li{
+	color:orange;
+	display: inline;
+	font -size: 1.5em;
+	padding: 10px 10px 10px 0;
+}
+
+footer li {
+	display: inline;
+}
+
+img {
+	width: 33%;
+}
+
+.redItem{
+	border: 2px dashed red;
+	margin: 10px 10px 10px 0;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.blueItem{
+	border: 2px dashed blue;
+	margin: 10px 10px 10px 0;
+}
+.greenItem{
+	border: 2px dashed lime;
+	margin: 10px 10px 10px 0;
+
+}
+.bigItem{
+	border: 2px solid green;
+	margin-bottom: 15px;
+}
